@@ -60,6 +60,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Pages\NovoUsuarioPage.cs" />
+    <Compile Include="Pages\UsuarioPage.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Testes\UsuarioSystemTest.cs" />
